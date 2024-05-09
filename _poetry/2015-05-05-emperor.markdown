@@ -1,13 +1,17 @@
 ---
 layout: post
-title: emperor
+title: Related Courses(AI)
 date: 2015-05-05 23:10:00
 ---
 
 Realated Courses(AI)
 
 • Artificial Intelligence Project(Running)
+<br>
 • Introduction to Deep Neural Networks
+<br>
 • Introduction to Artificial Intelligence
+<br>
 • Fundamental of machine learning
+<br>
 • Applied Natural Language Processing   
