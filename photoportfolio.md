@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: photoportfolio
 permalink: /photoportfolio/
@@ -28,4 +28,4 @@ permalink: /photoportfolio/
 
 <!-- this is for the lightbox --> 
 <script type="text/javascript" src="/js/lightbox.js"></script>
-<link rel="stylesheet" href="/css/lightbox.css">
+<link rel="stylesheet" href="/css/lightbox.css"> -->

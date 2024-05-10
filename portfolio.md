@@ -1,7 +1,7 @@
 ---
 layout: page
-title: portfolio
-permalink: /portfolio/
+title: Skill
+permalink: /Skill/
 ---
 
 {% for project in site.portfolio %}
