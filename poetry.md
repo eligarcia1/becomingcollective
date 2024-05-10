@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /poetry/
-title: poetry
+permalink: /Academic/
+title: Academic
 description: My school Information.
 ---
 

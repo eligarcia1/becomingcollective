@@ -6,6 +6,9 @@ date: 2015-08-06 23:10:00
 
 
 Academic Accomplishments: Dean’s List Awards(2023-Spring)
+<br>
 Data science academic festival 1st
+<br>
 Role(AI algorithm developer)
+<br>
 Topic(café recommendation system)
