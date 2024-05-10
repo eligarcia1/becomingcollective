@@ -16,5 +16,3 @@ Moyeolak(SKKU band club 2019~2020)
 <br>
 CU(SKKU Department of Global Fusion Student Council 2020~2021)
 
-
-### Sylvia Plath
