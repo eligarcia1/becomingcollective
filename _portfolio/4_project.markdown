@@ -2,7 +2,7 @@
 layout: post
 title: OCaml
 description: learned from course
-img: 
+img: /img/3.png
 ---
 
 
