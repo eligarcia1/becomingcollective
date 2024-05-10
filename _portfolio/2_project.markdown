@@ -2,7 +2,7 @@
 layout: post
 title: Java
 description: learned from course
-img: /img/6.jpg
+img: /img/6.png
 ---
 
 
