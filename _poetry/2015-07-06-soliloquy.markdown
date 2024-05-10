@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SKKU Information 
-date: 2024-05-09 23:10:00
+date: 2015-07-06 23:10:00
 ---
 
 
@@ -10,6 +10,9 @@ B.S. Student(4th grage)
 Major: Department of Data Science
 Double Major: Department of Software	 
 
-Academic accomplishments: Dean’s List Awards(2023-Spring)
+Dasomi(SKKU official volunteer group 2019~2020)
+Moyeolak(SKKU band club 2019~2020)
+CU(SKKU Department of Global Fusion Student Council 2020~2021)
+
 
 ### Sylvia Plath

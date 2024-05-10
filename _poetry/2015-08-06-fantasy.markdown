@@ -1,10 +1,11 @@
 ---
 layout: post
-title: School Activity
-date: 2024-05-09 23:10:00
+title: Academic Accomplishment
+date: 2015-08-06 23:10:00
 ---
 
-Dasomi(SKKU official volunteer group 2019~2020)
-Moyeolak(SKKU band club 2019~2020)
-CU(SKKU Department of Global Fusion Student Council 2020~2021)
 
+Academic Accomplishments: Dean’s List Awards(2023-Spring)
+Data science academic festival 1st
+Role(AI algorithm developer)
+Topic(café recommendation system)
