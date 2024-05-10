@@ -4,8 +4,6 @@ title: about
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
-
 <br/>
 I am an undergraduate student at the Department of Data Science, Sungkyunkwan University (SKKU), Korea .
 I am also double majoring in Department of Software. 
